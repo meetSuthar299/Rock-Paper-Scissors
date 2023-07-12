@@ -140,6 +140,8 @@ const RockPaperScissors = () => {
       />
 
       <AutoPlayButton onClick={() => autoPlay()} />
+
+      <p>Made my Meet Suthar. Developed in React, coded in Visual Studio Code</p>
     </>
   );
 };
